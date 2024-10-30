@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\time\\source\\repos\\CTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E742605-5B41-4FDB-B99C-0F03D97EE8B9}|CTest\\CTest.csproj|c:\\users\\time\\source\\repos\\ctest\\ctest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E742605-5B41-4FDB-B99C-0F03D97EE8B9}|CTest\\CTest.csproj|solutionrelative:ctest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\time\\source\\repos\\CTest\\CTest\\Program.cs",
+              "RelativeDocumentMoniker": "CTest\\Program.cs",
+              "ToolTip": "C:\\Users\\time\\source\\repos\\CTest\\CTest\\Program.cs",
+              "RelativeToolTip": "CTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:34:49.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
