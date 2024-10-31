@@ -11,6 +11,7 @@ namespace CTest
         static void Main(string[] args)
         {
             Console.WriteLine("new hello world");
+            Console.Write("New");
         }
     }
 }
