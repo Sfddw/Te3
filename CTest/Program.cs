@@ -12,6 +12,12 @@ namespace CTest
         {
             Console.WriteLine("new hello world");
             Console.Write("New");
+            Console.WriteLine("new hello world");
+            Console.Write("New");
+            Console.WriteLine("new hello world");
+            Console.Write("New");
+            Console.WriteLine("new hello world");
+            Console.Write("New");
         }
     }
 }
